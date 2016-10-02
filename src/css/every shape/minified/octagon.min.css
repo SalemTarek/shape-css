@@ -1,0 +1,1 @@
+.octagon{width:100px;height:100px;background:#000;position:relative}.octagon:after,.octagon:before{content:"";position:absolute;left:0;border-left:29px solid .eee;border-right:29px solid .eee;width:42px;height:0}.octagon:before{top:0;border-bottom:29px solid #000}.octagon:after{bottom:0;border-top:29px solid #000}

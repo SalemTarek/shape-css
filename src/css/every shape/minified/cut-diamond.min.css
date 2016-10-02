@@ -1,0 +1,1 @@
+.cut-diamond{border-style:solid;border-color:transparent transparent #000;border-width:0 25px 25px;height:0;width:50px;position:relative;margin:20px 0 50px}.cut-diamond:after{content:"";position:absolute;top:25px;left:-25px;width:0;height:0;border-style:solid;border-color:#000 transparent transparent;border-width:70px 50px 0}

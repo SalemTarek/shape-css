@@ -1,0 +1,1 @@
+.magnifying-glass{font-size:10em;display:inline-block;width:.4em;height:.4em;border:.1em solid #000;position:relative;border-radius:.35em}.magnifying-glass::before{content:"";display:inline-block;position:absolute;right:-.25em;bottom:-.1em;border-width:0;background:#000;width:.35em;height:.08em;-webkit-transform:rotate(45deg);transform:rotate(45deg)}

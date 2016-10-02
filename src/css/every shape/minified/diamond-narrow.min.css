@@ -1,0 +1,1 @@
+.diamond-narrow{border-bottom:70px solid #000;position:relative;top:-50px}.diamond-narrow,.diamond-narrow:after{width:0;height:0;border:50px solid transparent}.diamond-narrow:after{content:'';position:absolute;left:-50px;top:70px;border-top:70px solid #000}

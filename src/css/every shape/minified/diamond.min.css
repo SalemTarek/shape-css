@@ -1,0 +1,1 @@
+.diamond{border-bottom-color:#000;position:relative;top:-50px}.diamond,.diamond:after{width:0;height:0;border:50px solid transparent}.diamond:after{content:'';position:absolute;left:-50px;top:50px;border-top-color:#000}

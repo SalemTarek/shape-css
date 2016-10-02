@@ -1,0 +1,32 @@
+.burst-12 
+{ 
+    background: black;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    text-align: center;
+}
+.burst-12:before, .burst-12:after
+{ 
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 80px; 
+    width: 80px;
+    background: black; 
+}
+.burst-12:before
+{
+    -webkit-transform: rotate(30deg);
+    transform: rotate(30deg);
+    -ms-transform: rotate(30deg); 
+    -o-transform: rotate(30deg); 
+}
+.burst-12:after 
+{
+    -webkit-transform: rotate(60deg);
+    transform: rotate(60deg); 
+    -ms-transform: rotate(60deg); 
+    -o-transform: rotate(60deg); 
+}
